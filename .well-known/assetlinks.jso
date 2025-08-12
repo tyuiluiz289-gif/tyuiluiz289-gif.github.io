@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.tyuiluiz289gif.mangazinho",
+      "package_name": "io.github.tyuiluiz289_gif.twa",
       "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00:AA:BB:CC:DD:EE:FF:11:22:33:44:55:66:77:88:99:00"
+        "93:77:39:F4:83:19:C3:E4:A6:0E:FE:77:29:FF:77:7E:09:79:7E:33:B1:6A:F0:47:74:B5:8B:E7:14:90:83:97"
       ]
     }
   }
